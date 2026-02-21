@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=180&section=header&text=Ilian%20Khankhalaev&fontSize=42&fontColor=94a3b8&animation=fadeIn" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:7c3aed&height=180&section=header&text=Ilian%20Khankhalaev&fontSize=42&fontColor=e9d5ff&animation=fadeIn" alt="Banner" width="100%" />
 
 ### CS @ SFU · ML & Data · Building end-to-end pipelines
 
