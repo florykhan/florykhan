@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" alt="Banner" width="100%" height="120" />
+<img src="banner.gif" alt="Banner" width="100%" style="height: 120px; object-fit: cover; object-position: top;" />
 
 ### Hello, I'm Ilian 👋
 
