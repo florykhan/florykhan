@@ -14,17 +14,7 @@
 
 *Computer Science student at Simon Fraser University. Interested in ML systems, data pipelines, and data products. Building production-style ML pipelines, evaluation frameworks, and dashboards.*
 
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-_(placeholder)-0ea5e9?style=flat&logo=googlechrome)](https://placeholder-portfolio.link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-_(placeholder)-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/placeholder)
-[![Email](https://img.shields.io/badge/Email-_(placeholder)-ea4335?style=flat&logo=gmail)](mailto:your.email@example.com)
-[![Resume](https://img.shields.io/badge/Resume-_(placeholder)-64748b?style=flat)](https://placeholder-resume.link)
-[![Kaggle](https://img.shields.io/badge/Kaggle-_(optional)-20beff?style=flat&logo=kaggle)](https://kaggle.com/placeholder)
-
-[![SFU](https://img.shields.io/badge/SFU-Computer%20Science-cc062c?style=flat)](https://www.sfu.ca/computing.html)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Open to internships](https://img.shields.io/badge/Open%20to-Internships-22c55e?style=flat)](mailto:your.email@example.com)
+[Portfolio](https://florykhan.github.io) · [LinkedIn](https://www.linkedin.com/in/ilian-khankhalaev/) · [Email](mailto:florykhan@gmail.com) · [Resume](#) *(placeholder)*
 
 </div>
 
@@ -103,7 +93,7 @@
 
 Reach out for collaboration, internships, or just to say hi.
 
-[Portfolio *(placeholder)*](#) · [LinkedIn *(placeholder)*](#) · [Email *(placeholder)*](mailto:your.email@example.com) · [Resume *(placeholder)*](#)
+[Portfolio](https://florykhan.github.io) · [LinkedIn](https://www.linkedin.com/in/ilian-khankhalaev/) · [Email](mailto:florykhan@gmail.com) · [Resume](#) *(placeholder)*
 
 ---
 
