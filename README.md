@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:7c3aed&height=180&section=header&text=Ilian%20Khankhalaev&fontSize=42&fontColor=e9d5ff&animation=fadeIn" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:7c3aed&height=180&section=header&text=Hello%2C%20I'm%20Ilian&fontSize=42&fontColor=e9d5ff&animation=fadeIn" alt="Banner" width="100%" />
 
-### CS @ SFU · ML & Data · Building end-to-end pipelines
+### Hello, I'm Ilian 👋
+
+**CS @ SFU · ML & Data · Building end-to-end pipelines**
 
 *Computer Science student at Simon Fraser University. Interested in ML systems, data pipelines, and data products. Building production-style ML pipelines, evaluation frameworks, and dashboards.*
 
@@ -72,10 +74,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=florykhan&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florykhan&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=florykhan&theme=transparent&show_icons=true&hide_border=true&count_private=true&border_radius=12" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florykhan&theme=transparent&layout=compact&hide_border=true&border_radius=12&langs_count=8&hide=css,scss,html" alt="Top languages" height="165" />
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=florykhan&theme=transparent&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## Activity
+
+<img src="https://ghchart.rshah.org/florykhan" alt="GitHub contribution graph" width="100%" />
 
 ---
 
