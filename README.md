@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:7c3aed&height=180&section=header&text=Hello%2C%20I'm%20Ilian&fontSize=42&fontColor=e9d5ff&animation=fadeIn" alt="Banner" width="100%" />
+<img src="banner.gif" alt="Banner" width="100%" />
 
 ### Hello, I'm Ilian 👋
 
