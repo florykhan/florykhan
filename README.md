@@ -1,12 +1,13 @@
 <div align="center">
 
-<div style="position: relative; width: 100%;">
-  <img src="banner.gif" alt="Banner" width="100%" style="height: 160px; object-fit: cover; object-position: top; display: block;" />
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; color: white; font-weight: bold;">
-    <span style="font-size: 1.5em;">Hello, I'm Ilian 👋</span>
-    <span style="font-size: 0.95em; margin-top: 0.35em;">CS @ SFU · ML & Data · Building end-to-end pipelines</span>
+<div style="width: 100%;">
+  <img src="banner.gif" alt="Banner" width="100%" style="height: 160px; object-fit: cover; object-position: top; display: block; vertical-align: top;" />
+  <div style="margin-top: -160px; padding: 2em 0; text-align: center; color: white; font-weight: bold;">
+    <span style="font-size: 1.5em;">Hello, I'm Ilian 👋</span><br/>
+    <span style="font-size: 0.95em;">CS @ SFU · ML & Data · Building end-to-end pipelines</span>
   </div>
 </div>
+<div style="height: 80px;"></div>
 
 *Computer Science student at Simon Fraser University. Interested in ML systems, data pipelines, and data products. Building production-style ML pipelines, evaluation frameworks, and dashboards.*
 
