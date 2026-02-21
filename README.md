@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" alt="Banner" width="100%" />
+<img src="banner.gif" alt="Banner" width="100%" height="120" />
 
 ### Hello, I'm Ilian 👋
 
