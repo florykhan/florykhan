@@ -70,6 +70,13 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=florykhan&theme=transparent&show_icons=true&hide_border=true&count_private=true&border_radius=12" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florykhan&theme=transparent&layout=compact&hide_border=true&border_radius=12&langs_count=8&hide=css,scss,html" alt="Top languages" height="165" />
+
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=florykhan&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
