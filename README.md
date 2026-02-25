@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <div style="width: 100%;">
   <img src="banner.gif" alt="Banner" width="100%" style="height: 160px; object-fit: cover; object-position: top; display: block; vertical-align: top;" />
   <div style="margin-top: -160px; height: 160px; position: relative;">
