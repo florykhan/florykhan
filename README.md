@@ -67,22 +67,31 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **ML & data**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557A?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B7DDD?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![ROC AUC](https://img.shields.io/badge/ROC_AUC-8B5CF6?style=flat-square)
 
 **Web & tools**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-FF6B35?style=flat-square)
 
 ---
 
@@ -107,7 +116,5 @@
 Reach out for collaboration, internships, or just to say hi.
 
 [**Portfolio**](https://florykhan.github.io) · [**LinkedIn**](https://www.linkedin.com/in/ilian-khankhalaev/) · [**Email**](mailto:florykhan@gmail.com) · [**Resume (PDF)**](https://florykhan.github.io/assets/Ilian-Khankhalaev-Resume.pdf)
-
-<sub>Last updated: Feb 2026</sub>
 
 </div>
