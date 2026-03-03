@@ -48,7 +48,7 @@ Building software, machine learning, and data analytics projects. Interested in 
 | :--- | :--- | :--- |
 | [**FutureSpend**](https://github.com/florykhan/FutureSpend) | Calendar-driven personal finance: predicts upcoming spend from events, category-based pipeline, dashboard with 7-day forecast, challenges, AI coach (Gemini). Next.js + FastAPI. SFU/RBC hackathon. | `Next.js` `TypeScript` `Tailwind` `FastAPI` `Recharts` `Gemini` |
 | [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer: multi-agent orchestration (Gemma, GPT), NL queries, web/weather intel, geospatial impact. Interactive Leaflet map, severity and confidence scoring. | `React` `Vite` `Leaflet` `Flask` `LLM` |
-| [**GymWhisper**](https://github.com/florykhan/GymWhisper) | Voice-powered workout tracking: hands-free logging via speech → Gemini API parses to structured exercises; client-side, bilingual (EN/FR). | `React` `Gemini` `react-speech-recognition` `Framer Motion` |
+| [**GymWhisper**](https://github.com/florykhan/GymWhisper) | Voice-powered workout tracking: hands-free logging via speech → Gemini API parses to structured exercises; client-side, bilingual (EN/FR). | `React` `Gemini` `speech-recognition` `FramerMotion` |
 
 #### Independent Projects
 
