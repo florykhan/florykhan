@@ -32,14 +32,8 @@ Building software, machine learning, and data analytics projects. Interested in 
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| [**customer-churn-dashboard**](https://github.com/florykhan/customer-churn-dashboard) | Customer churn analysis and dashboard for retention metrics and visualization. | `SQL` `Python` `Tableau` `pandas` |
 | [**airbnb-market-analysis**](https://github.com/florykhan/airbnb-market-analysis) | Vancouver Airbnb market: cleaning, SQL, Python, Tableau visualizations. | `SQL` `Python` `Tableau` `pandas` |
-
-#### Full-Stack Applications
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer with geospatial map and LLM-backed insights. | `React` `Leaflet` `Flask` `LLM` |
-| [**GymWhisper**](https://github.com/florykhan/GymWhisper) | Voice-powered workout tracker: Web Speech API + LLM to structure and log workouts. | `React` `Web Speech API` `LLM` |
 
 #### Machine Learning Projects
 
@@ -47,6 +41,13 @@ Building software, machine learning, and data analytics projects. Interested in 
 | :--- | :--- | :--- |
 | [**graduate-underemployment-prediction**](https://github.com/florykhan/graduate-underemployment-prediction) | ML pipeline for graduate underemployment with interpretable models and evaluation. | `Python` `CatBoost` `scikit-learn` `ROC AUC` |
 | [**house-price-ml-v2**](https://github.com/florykhan/house-price-ml-v2) | House price prediction: feature engineering, OLS/Ridge/Lasso, custom gradient descent, cross-validation. | `Python` `scikit-learn` `pandas` `NumPy` |
+
+#### Full-Stack Applications
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [**FutureSpend**](https://github.com/florykhan/FutureSpend) | Full-stack spend tracking or financial planning app. | `React` `Flask` |
+| [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer with geospatial map and LLM-backed insights. | `React` `Leaflet` `Flask` `LLM` |
 
 #### Independent Projects
 
