@@ -32,39 +32,41 @@ Building software, machine learning, and data analytics projects. Interested in 
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**customer-churn-dashboard**](https://github.com/florykhan/customer-churn-dashboard) | Customer churn analysis and dashboard for retention metrics and visualization. | `SQL` `Python` `Tableau` `pandas` |
-| [**airbnb-market-analysis**](https://github.com/florykhan/airbnb-market-analysis) | Vancouver Airbnb market: cleaning, SQL, Python, Tableau visualizations. | `SQL` `Python` `Tableau` `pandas` |
+| [**customer-churn-dashboard**](https://github.com/florykhan/customer-churn-dashboard) | End-to-end churn analytics: SQL → R → Tableau pipeline (Telco dataset). Executive dashboard for churn patterns, high-risk segments, revenue at risk. | `SQL` `SQLite` `R` `dplyr` `tidyr` `Tableau` |
+| [**airbnb-market-analysis**](https://github.com/florykhan/airbnb-market-analysis) | Vancouver Airbnb: raw CSV → Python ETL → SQLite, SQL aggregation, interactive Tableau dashboard for pricing, neighbourhood, and room-type insights. | `Python` `pandas` `SQLite` `SQL` `Tableau` `Jupyter` |
 
 #### Machine Learning Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**graduate-underemployment-prediction**](https://github.com/florykhan/graduate-underemployment-prediction) | ML pipeline for graduate underemployment with interpretable models and evaluation. | `Python` `CatBoost` `scikit-learn` `ROC AUC` |
-| [**house-price-ml-v2**](https://github.com/florykhan/house-price-ml-v2) | House price prediction: feature engineering, OLS/Ridge/Lasso, custom gradient descent, cross-validation. | `Python` `scikit-learn` `pandas` `NumPy` |
+| [**graduate-underemployment-prediction**](https://github.com/florykhan/graduate-underemployment-prediction) | Full ML pipeline for predicting overqualification (underemployment) from NGS hiring data. CatBoost, stratified K-fold CV, feature importance, optional SHAP. SFU ML Hackathon. | `Python` `CatBoost` `scikit-learn` `pandas` `SHAP` `Jupyter` |
+| [**house-price-ml-v2**](https://github.com/florykhan/house-price-ml-v2) | Modular ML pipeline for California median house price prediction: feature engineering, OLS/Ridge/Lasso, custom Gradient Descent, 5-fold CV, hyperparameter tuning. | `Python` `scikit-learn` `pandas` `NumPy` `Matplotlib` `Jupyter` |
 
 #### Full-Stack Applications
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**FutureSpend**](https://github.com/florykhan/FutureSpend) | Full-stack spend tracking or financial planning app. | `React` `Flask` |
-| [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer with geospatial map and LLM-backed insights. | `React` `Leaflet` `Flask` `LLM` |
+| [**FutureSpend**](https://github.com/florykhan/FutureSpend) | Calendar-driven personal finance: predicts upcoming spend from events, category-based pipeline, dashboard with 7-day forecast, challenges, AI coach (Gemini). Next.js + FastAPI. SFU/RBC hackathon. | `Next.js` `TypeScript` `Tailwind` `FastAPI` `Recharts` `Gemini` |
+| [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer: multi-agent orchestration (Gemma, GPT), NL queries, web/weather intel, geospatial impact. Interactive Leaflet map, severity and confidence scoring. | `React` `Vite` `Leaflet` `Flask` `LLM` |
 
 #### Independent Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**florykhan.github.io**](https://github.com/florykhan/florykhan.github.io) | Portfolio built from scratch — vanilla HTML, CSS, JavaScript. | `HTML` `CSS` `JavaScript` |
+| [**florykhan.github.io**](https://github.com/florykhan/florykhan.github.io) | Static portfolio: projects, experience, education, contact. Vanilla HTML, CSS, JavaScript. GitHub Pages + CI/CD. | `HTML` `CSS` `JavaScript` |
 
 ---
 
 ### 🎯 Tech stack
+
+*From featured projects above.*
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -77,16 +79,18 @@ Building software, machine learning, and data analytics projects. Interested in 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3B7DDD?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![ROC AUC](https://img.shields.io/badge/ROC_AUC-8B5CF6?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-85B73B?style=flat-square)
 
 **Web & tools**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
-![REST & Web APIs](https://img.shields.io/badge/REST_%26_Web_APIs-009688?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
