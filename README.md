@@ -1,6 +1,7 @@
 <div align="center">
   
 <img src="banner.gif" alt="Banner" width="100%" style="height: 160px; object-fit: cover; object-position: top; display: block;" />
+
 ## Hello, I'm Ilian 👋
 **CS & Math @ SFU · Data, ML, Software**
 
