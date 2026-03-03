@@ -1,16 +1,10 @@
 <div align="center">
   
-<div style="width: 100%;">
-  <img src="banner.gif" alt="Banner" width="100%" style="height: 160px; object-fit: cover; object-position: top; display: block; vertical-align: top;" />
-  <div style="margin-top: -160px; height: 160px; position: relative;">
-    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.45);"></div>
-    <div style="position: relative; z-index: 1; padding: 2em 0; text-align: center; color: white; font-weight: bold;">
-      <span style="font-size: 10em;">Hello, I'm Ilian 👋</span><br/>
-      <span style="font-size: 0.95em;">CS & Math @ SFU · Data, ML, Software</span>
-    </div>
-  </div>
-</div>
-<div style="height: 80px;"></div>
+<img src="banner.gif" alt="Banner" width="100%" style="height: 160px; object-fit: cover; object-position: top; display: block;" />
+
+## Hello, I'm Ilian 👋
+
+**CS & Math @ SFU · Data, ML, Software**
 
 <br/>
 
