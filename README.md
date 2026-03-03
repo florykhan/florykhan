@@ -84,7 +84,8 @@ Building software, machine learning, and data analytics projects. Interested in 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
-![Web Speech API](https://img.shields.io/badge/Web_Speech_API-FF6B35?style=flat-square)
+![REST & Web APIs](https://img.shields.io/badge/REST_%26_Web_APIs-009688?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
