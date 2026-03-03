@@ -5,14 +5,14 @@
   <div style="margin-top: -160px; height: 160px; position: relative;">
     <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.45);"></div>
     <div style="position: relative; z-index: 1; padding: 2em 0; text-align: center; color: white; font-weight: bold;">
-      <span style="font-size: 2.2em;">Hello, I'm Ilian 👋</span><br/>
+      <span style="font-size: 3em;">Hello, I'm Ilian 👋</span><br/>
       <span style="font-size: 0.95em;">CS & Math @ SFU · Data, ML, Software</span>
     </div>
   </div>
 </div>
 <div style="height: 80px;"></div>
 
-**Computer Science** at Simon Fraser University. Building software and ML projects — interested in **data** (analysis, dashboards, BI), **machine learning** (pipelines, evaluation, applied ML), and **software engineering** (web apps, APIs, clean systems). Open to **Data Analyst**, **SWE**, and **ML** roles.
+Building software, machine learning, and data analytics projects. Interested in applied ML, data engineering, and clean systems.
 
 <br/>
 
@@ -35,27 +35,27 @@
 
 ### 📁 Featured projects
 
-#### 📊 ML & data pipelines
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**graduate-underemployment-prediction**](https://github.com/florykhan/graduate-underemployment-prediction) | ML pipeline for graduate underemployment with interpretable models and evaluation. | `Python` `CatBoost` `scikit-learn` `ROC AUC` |
-| [**house-price-ml-v2**](https://github.com/florykhan/house-price-ml-v2) | House price prediction: feature engineering, OLS/Ridge/Lasso, custom gradient descent, cross-validation. | `Python` `scikit-learn` `pandas` `NumPy` |
-
-#### 📈 Data analytics & BI
+#### Data Analytics & BI
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**airbnb-market-analysis**](https://github.com/florykhan/airbnb-market-analysis) | Vancouver Airbnb market: cleaning, SQL, Python, Tableau visualizations. | `SQL` `Python` `Tableau` `pandas` |
 
-#### 🚀 ML & product apps
+#### Full-Stack Applications
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer with geospatial map and LLM-backed insights. | `React` `Leaflet` `Flask` `LLM` |
 | [**GymWhisper**](https://github.com/florykhan/GymWhisper) | Voice-powered workout tracker: Web Speech API + LLM to structure and log workouts. | `React` `Web Speech API` `LLM` |
 
-#### 🌐 Web & personal
+#### ML & Data Pipelines
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [**graduate-underemployment-prediction**](https://github.com/florykhan/graduate-underemployment-prediction) | ML pipeline for graduate underemployment with interpretable models and evaluation. | `Python` `CatBoost` `scikit-learn` `ROC AUC` |
+| [**house-price-ml-v2**](https://github.com/florykhan/house-price-ml-v2) | House price prediction: feature engineering, OLS/Ridge/Lasso, custom gradient descent, cross-validation. | `Python` `scikit-learn` `pandas` `NumPy` |
+
+#### Side Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
