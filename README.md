@@ -12,8 +12,6 @@
 </div>
 <div style="height: 80px;"></div>
 
-Building software, machine learning, and data analytics projects. Interested in applied ML, data engineering, and clean systems.
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://florykhan.github.io)
@@ -26,6 +24,8 @@ Building software, machine learning, and data analytics projects. Interested in 
 ---
 
 ### 🔭 Current focus
+
+Building software, machine learning, and data analytics projects. Interested in applied ML, data engineering, and clean systems.
 
 - **Data** — Analysis, dashboards, BI (SQL, Python, Tableau). Targeting **Data Analyst** roles.
 - **ML** — Pipelines, evaluation (ROC AUC, calibration), applied ML. Targeting **ML** roles.
