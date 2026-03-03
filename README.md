@@ -20,9 +20,9 @@
 
 Building software, machine learning, and data analytics projects. Interested in applied ML, data engineering, and clean systems.
 
-- **Data** — Analysis, dashboards, BI (SQL, Python, Tableau). Targeting **Data Analyst** roles.
-- **ML** — Pipelines, evaluation (ROC AUC, calibration), applied ML. Targeting **ML** roles.
-- **Software** — Web apps, APIs, full-stack. Targeting **SWE** roles.
+- **Data** — Cleaning, analysis, and visualization (SQL, Python, Tableau); dashboards and BI for exploratory and market-style work.
+- **ML** — End-to-end pipelines, feature engineering, interpretable models (e.g. CatBoost), and evaluation (ROC AUC, calibration, cross-validation); regression and classification. 
+- **Software** — Full-stack web apps (React, Flask), APIs, geospatial/maps (e.g. Leaflet), and LLM or voice-driven UIs.
 
 ---
 
