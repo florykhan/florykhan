@@ -6,13 +6,13 @@
     <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.45);"></div>
     <div style="position: relative; z-index: 1; padding: 2em 0; text-align: center; color: white; font-weight: bold;">
       <span style="font-size: 2.2em;">Hello, I'm Ilian 👋</span><br/>
-      <span style="font-size: 0.95em;">CS @ SFU · ML & Data · Building end-to-end pipelines</span>
+      <span style="font-size: 0.95em;">CS & Math @ SFU · Data, ML, Software</span>
     </div>
   </div>
 </div>
 <div style="height: 80px;"></div>
 
-**Computer Science** at Simon Fraser University · into **ML systems**, **data pipelines**, and **data products** — from training and evaluation to dashboards and deployed apps.
+**Computer Science** at Simon Fraser University. Building software and ML projects — interested in **data** (analysis, dashboards, BI), **machine learning** (pipelines, evaluation, applied ML), and **software engineering** (web apps, APIs, clean systems). Open to **Data Analyst**, **SWE**, and **ML** roles.
 
 <br/>
 
@@ -27,9 +27,9 @@
 
 ### 🔭 Current focus
 
-- **ML pipelines & evaluation** — End-to-end training, validation, metrics (ROC AUC, calibration, feature importance).
-- **Data dashboards & BI** — SQL, Python, Tableau for analysis and reporting.
-- **ML systems & products** — Deploying models, APIs, maps, voice apps. *Open to internships in Data / ML / SWE.*
+- **Data** — Analysis, dashboards, BI (SQL, Python, Tableau). Targeting **Data Analyst** roles.
+- **ML** — Pipelines, evaluation (ROC AUC, calibration), applied ML. Targeting **ML** roles.
+- **Software** — Web apps, APIs, full-stack. Targeting **SWE** roles.
 
 ---
 
