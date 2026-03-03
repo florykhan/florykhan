@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://florykhan.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilian-khankhalaev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florykhan@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume_PDF-8B5CF6?style=for-the-badge)](https://florykhan.github.io/assets/Ilian-Khankhalaev-Resume.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-8B5CF6?style=for-the-badge)](https://florykhan.github.io/assets/Ilian-Khankhalaev-Resume.pdf)
 
 </div>
 
