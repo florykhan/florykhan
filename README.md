@@ -41,14 +41,14 @@ Building software, machine learning, and data analytics projects. Interested in 
 | [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer with geospatial map and LLM-backed insights. | `React` `Leaflet` `Flask` `LLM` |
 | [**GymWhisper**](https://github.com/florykhan/GymWhisper) | Voice-powered workout tracker: Web Speech API + LLM to structure and log workouts. | `React` `Web Speech API` `LLM` |
 
-#### ML & Data Pipelines
+#### Machine Learning Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**graduate-underemployment-prediction**](https://github.com/florykhan/graduate-underemployment-prediction) | ML pipeline for graduate underemployment with interpretable models and evaluation. | `Python` `CatBoost` `scikit-learn` `ROC AUC` |
 | [**house-price-ml-v2**](https://github.com/florykhan/house-price-ml-v2) | House price prediction: feature engineering, OLS/Ridge/Lasso, custom gradient descent, cross-validation. | `Python` `scikit-learn` `pandas` `NumPy` |
 
-#### Side Projects
+#### Independent Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
