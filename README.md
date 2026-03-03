@@ -25,7 +25,7 @@
 
 ---
 
-### Current focus
+### 🔭 Current focus
 
 - **ML pipelines & evaluation** — End-to-end training, validation, metrics (ROC AUC, calibration, feature importance).
 - **Data dashboards & BI** — SQL, Python, Tableau for analysis and reporting.
@@ -33,29 +33,29 @@
 
 ---
 
-### Featured projects
+### 📁 Featured projects
 
-#### ML & data pipelines
+#### 📊 ML & data pipelines
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**graduate-underemployment-prediction**](https://github.com/florykhan/graduate-underemployment-prediction) | ML pipeline for graduate underemployment with interpretable models and evaluation. | `Python` `CatBoost` `scikit-learn` `ROC AUC` |
 | [**house-price-ml-v2**](https://github.com/florykhan/house-price-ml-v2) | House price prediction: feature engineering, OLS/Ridge/Lasso, custom gradient descent, cross-validation. | `Python` `scikit-learn` `pandas` `NumPy` |
 
-#### Data analytics & BI
+#### 📈 Data analytics & BI
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**airbnb-market-analysis**](https://github.com/florykhan/airbnb-market-analysis) | Vancouver Airbnb market: cleaning, SQL, Python, Tableau visualizations. | `SQL` `Python` `Tableau` `pandas` |
 
-#### ML & product apps
+#### 🚀 ML & product apps
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**TelusGuardAI**](https://github.com/florykhan/TelusGuardAI) | AI-powered network impact analyzer with geospatial map and LLM-backed insights. | `React` `Leaflet` `Flask` `LLM` |
 | [**GymWhisper**](https://github.com/florykhan/GymWhisper) | Voice-powered workout tracker: Web Speech API + LLM to structure and log workouts. | `React` `Web Speech API` `LLM` |
 
-#### Web & personal
+#### 🌐 Web & personal
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
@@ -95,7 +95,7 @@
 
 ---
 
-### Stats
+### 📊 Stats
 
 <div align="center">
 
@@ -105,13 +105,13 @@
 
 ---
 
-### Activity
+### 📅 Activity
 
 <img src="https://ghchart.rshah.org/florykhan" alt="GitHub contribution graph" width="100%" />
 
 ---
 
-### Let's connect
+### 🤝 Let's connect
 
 Reach out for collaboration, internships, or just to say hi.
 
